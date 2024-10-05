@@ -1,0 +1,33 @@
+h1,h2,h3,h4,p {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 100%;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.h1-yellow {
+    color: #F9CB13;
+}
+
+.headbg-blue{
+    background-color: #39064d;
+}
+
+.div-35 {
+    width: 45%;
+}
+
+.bg-img {
+    background-image: url("../imgs/sddefault.jpg");
+    background-repeat: no-repeat;
+}
+
+.bg-event {
+    background-color: #280038;
+}
